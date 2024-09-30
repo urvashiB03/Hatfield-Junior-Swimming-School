@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="hatfield-junior-swimming-school:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/hatfield_junior_swimming_school_jar</output-path>
+    <root id="archive" name="hatfield-junior-swimming-school.jar">
+      <element id="module-output" name="hatfield-junior-swimming-school" />
+    </root>
+  </artifact>
+</component>

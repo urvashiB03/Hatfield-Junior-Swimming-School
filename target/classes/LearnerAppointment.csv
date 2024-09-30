@@ -1,0 +1,133 @@
+# Learner_Id, Booking_Date, Lesson_Of_The_Week, Status, Rating, Review
+1,2024-02-28,4,Attended,3,Lesson was ok
+10,2024-02-28,4,Attended,5,Good instruction
+5,2024-02-28,5,Attended,3,ok instruction
+7,2024-02-28,5,Attended,5,Excellent lessons
+4,2024-02-28,6,Attended,5,Excellent instructor
+6,2024-02-28,6,Attended,3,Room for improvement
+3,2024-03-01,7,Attended,4,Good experience
+8,2024-03-01,7,Cancelled,null,null
+13,2024-03-01,7,Attended,3,Bad service
+2,2024-03-01,8,Attended,5,Best lesson ever!
+9,2024-03-01,8,Attended,5,Amazing
+10,2024-03-01,9,Attended,5,Five star
+1,2024-03-01,9,Attended,5,Amazing
+5,2024-03-02,10,Attended,4,Good experience
+7,2024-03-02,10,Cancelled,null,null
+15,2024-03-02,10,Attended,2,Bad service
+4,2024-03-02,11,Attended,4,Good experience
+6,2024-03-02,11,Attended,4,lesson was ok!
+12,2024-03-02,11,Attended,2,Bad Lesson
+4,2024-03-04,1,Attended,4,good
+6,2024-03-04,1,Attended,3,not good
+8,2024-03-04,2,Attended,1,Unsatisfactory
+13,2024-03-04,2,Attended,2,Unsatisfactory
+2,2024-03-04,3,Attended,5,Good instructor
+9,2024-03-04,3,Attended,4,lesson was ok!
+1,2024-03-06,4,Attended,5,Excellent
+10,2024-03-06,4,Cancelled,null,null
+14,2024-03-06,4,Booked,null,null
+5,2024-03-06,5,Attended,4,had good lesson
+7,2024-03-06,5,Attended,5,Excellent lesson
+15,2024-03-06,5,Attended,5,Great lesson
+4,2024-03-06,6,Cancelled,null,null
+6,2024-03-06,6,Booked,null,null
+12,2024-03-06,6,Attended,5,Fabulous lesson
+8,2024-03-08,7,Attended,2,Bad lesson
+13,2024-03-08,7,Attended,1,Awful
+9,2024-03-08,8,Attended,4,Enthusiastic
+11,2024-03-08,8,Attended,5,Satisfying
+10,2024-03-08,9,Attended,1,Disappointing
+14,2024-03-08,9,Attended,4,Happy
+5,2024-03-09,10,Attended,5,Perfect
+7,2024-03-09,10,Attended,5,Cheerful
+15,2024-03-09,10,Attended,5,Gratifying
+4,2024-03-09,11,Attended,2,Miserable
+6,2024-03-09,11,Attended,2,Gloomy
+12,2024-03-09,11,Attended,5,Thrilled
+1,2024-03-11,1,Cancelled,null,null
+12,2024-03-11,1,Attended,4,Good
+6,2024-03-11,1,Attended,5,very good
+3,2024-03-11,2,Booked,null,null
+8,2024-03-11,2,Booked,null,null
+13,2024-03-11,2,Attended,5,Interactive
+2,2024-03-11,3,Attended,5,Thrilled
+8,2024-03-11,3,Cancelled,null,null
+11,2024-03-11,3,Attended,4,Enjoyable
+10,2024-03-13,4,Attended,5,Insightful
+1,2024-03-13,4,Attended,5,Insightful
+5,2024-03-13,5,Attended,4,Refreshing
+15,2024-03-13,5,Attended,3,Good
+12,2024-03-13,6,Attended,5,Refreshing
+6,2024-03-13,6,Attended,5,Insightful
+8,2024-03-15,7,Cancelled,null,null
+13,2024-03-15,7,Attended,4,great
+3,2024-03-15,7,Attended,3,lesson was ok
+2,2024-03-15,8,Booked,null,null
+9,2024-03-15,8,Cancelled,null,null
+11,2024-03-15,8,Attended,4,Satisfying
+1,2024-03-15,9,Attended,2,Poorly organized
+10,2024-03-15,9,Attended,4,Beneficial
+14,2024-03-15,9,Booked,null,null
+7,2024-03-16,10,Attended,3,Distracting but good
+15,2024-03-16,10,Attended,4,ok
+4,2024-03-16,11,Attended,4,Satisfying
+12,2024-03-16,11,Attended,null,null
+12,2024-03-18,1,Attended,3,very bad
+6,2024-03-18,1,Attended,4,not good
+3,2024-03-18,2,Attended,2,Unsatisfactory
+8,2024-03-18,2,Attended,2,Unsatisfactory
+11,2024-03-18,3,Attended,4,Good instructor
+9,2024-03-18,3,Attended,3,lesson was ok!
+1,2024-03-20,4,Cancelled,null,null
+10,2024-03-20,4,Attended,5,Excellent
+14,2024-03-20,4,Attended,5,Excellent
+5,2024-03-20,5,Attended,5,had good lesson
+15,2024-03-20,5,Attended,5,Excellent lesson
+7,2024-03-20,5,Cancelled,null,null
+4,2024-03-20,6,Attended,4,Energizing
+6,2024-03-20,6,Booked,null,null
+12,2024-03-20,6,Attended,5,Fabulous lesson
+8,2024-03-22,7,Attended,4,god lesson
+13,2024-03-22,7,Attended,3,Awful
+16,2024-03-22,7,Cancelled,null,null
+2,2024-03-22,8,Attended,4,Enthusiastic
+11,2024-03-22,8,Attended,3,Satisfying
+1,2024-03-22,9,Attended,3,Repetitive
+14,2024-03-22,9,Attended,4,Enjoyable
+5,2024-03-23,10,Attended,4,Supportive
+7,2024-03-23,10,Attended,5,Encouraging
+15,2024-03-23,10,Cancelled,null,null
+4,2024-03-23,11,Attended,3,was ok
+6,2024-03-23,11,Attended,5,null
+12,2024-03-23,11,Attended,5,Helpful
+12,2024-03-25,1,Cancelled,null,null
+1,2024-03-25,1,Attended,4,It was ok!
+6,2024-03-25,1,Attended,5,excellent
+3,2024-03-25,2,Booked,null,null
+16,2024-03-25,2,Attended,5,Improving
+13,2024-03-25,2,Attended,5,Interactive
+2,2024-03-25,3,Attended,2,Unhelpful
+8,2024-03-25,3,Cancelled,null,null
+11,2024-03-25,3,Attended,3,Enjoyable
+14,2024-03-27,4,Attended,5,Insightful
+10,2024-03-27,4,Attended,5,null
+7,2024-03-27,5,Attended,4,Refreshing
+5,2024-03-27,5,Attended,3,null
+4,2024-03-27,6,Attended,5,Refreshing
+6,2024-03-27,6,Attended,5,Insightful
+8,2024-03-29,7,Attended,4,Satisfying
+13,2024-03-29,7,Attended,4,Well-organized
+3,2024-03-29,7,Attended,5,Excellent
+2,2024-03-29,8,Booked,null,null
+11,2024-03-29,8,Cancelled,null,null
+16,2024-03-29,8,Attended,4,Satisfying
+1,2024-03-29,9,Attended,3,Boring
+14,2024-03-29,9,Attended,4,Engrossing
+10,2024-03-29,9,Booked,null,null
+15,2024-03-30,10,Attended,3,Uninsightful
+5,2024-03-30,10,Booked,null,null
+12,2024-03-30,11,Attended,4,Well-organized
+6,2024-03-30,11,Attended,null,null
+16,2024-04-12,8,Booked,null,null
+10,2024-04-12,8,Booked,null,null

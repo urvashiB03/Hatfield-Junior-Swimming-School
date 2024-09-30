@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="hatfield-junior-swimming-school:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e1a6e309-513a-4242-be7b-e68d99cdb299" name="Changes" comment="handle user input">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2dmb7LESngdR6HyDnyRXKHYd31f" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "JUnit.LearnerMainTest.addLearner.executor": "Run",
+    "JUnit.LearnerMainTest.addLearnerTest.executor": "Run",
+    "JUnit.LearnerMainTest.executor": "Run",
+    "JUnit.LearnerTest.isGender.executor": "Run",
+    "JUnit.LearnerTest.isGenderTest.executor": "Run",
+    "JUnit.LessonBookingTest.calculateAge.executor": "Run",
+    "JUnit.LessonBookingTest.calculateAgeTest.executor": "Run",
+    "JUnit.LessonBookingTest.checkDuplicateBooking.executor": "Run",
+    "JUnit.LessonBookingTest.checkDuplicateBookingTest.executor": "Run",
+    "JUnit.LessonBookingTest.executor": "Run",
+    "JUnit.LessonBookingTest.filterLesson.executor": "Run",
+    "JUnit.LessonBookingTest.filterLessonTest.executor": "Run",
+    "JUnit.LessonBookingTest.registerForLessonTest.executor": "Run",
+    "JUnit.LessonBookingTest.testValidRegistration.executor": "Run",
+    "JUnit.UtilityTest.checkGradeLevel.executor": "Run",
+    "JUnit.UtilityTest.checkGradeLevelTest.executor": "Run",
+    "Maven.hatfield-junior-swimming-school [compile].executor": "Run",
+    "Maven.hatfield-junior-swimming-school [package].executor": "Run",
+    "Maven.hatfield-junior-swimming-school [test].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Laptop/OneDrive/Desktop/Programming for Software Engineering/hatfield-junior-swimming-school",
+    "onboarding.tips.debug.path": "C:/Users/Laptop/OneDrive/Desktop/Programming for Software Engineering/Hatfield Junior Swimming School/src/Main.java",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Laptop\OneDrive\Desktop\Programming for Software Engineering\Hatfield Junior Swimming School\src\com\hatfiledJuniorSwimmingSchool" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Laptop\OneDrive\Desktop\Programming for Software Engineering\hatfield-junior-swimming-school\src\main\resources" />
+      <recent name="C:\Users\Laptop\OneDrive\Desktop\Programming for Software Engineering\Hatfield Junior Swimming School\src" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.hatfieldJuniorSwimmingSchool" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.hatfiledJuniorSwimmingSchool" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn test" />
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.LessonBookingTest.checkDuplicateBookingTest">
+    <configuration name="LearnerMainTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hatfield-junior-swimming-school" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hatfieldJuniorSwimmingSchool.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hatfieldJuniorSwimmingSchool" />
+      <option name="MAIN_CLASS_NAME" value="com.hatfieldJuniorSwimmingSchool.LearnerMainTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LearnerTest.isGenderTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hatfield-junior-swimming-school" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hatfieldJuniorSwimmingSchool.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hatfieldJuniorSwimmingSchool" />
+      <option name="MAIN_CLASS_NAME" value="com.hatfieldJuniorSwimmingSchool.LearnerTest" />
+      <option name="METHOD_NAME" value="isGenderTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LessonBookingTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hatfield-junior-swimming-school" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hatfieldJuniorSwimmingSchool.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hatfieldJuniorSwimmingSchool" />
+      <option name="MAIN_CLASS_NAME" value="com.hatfieldJuniorSwimmingSchool.LessonBookingTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LessonBookingTest.checkDuplicateBookingTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hatfield-junior-swimming-school" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hatfieldJuniorSwimmingSchool.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hatfieldJuniorSwimmingSchool" />
+      <option name="MAIN_CLASS_NAME" value="com.hatfieldJuniorSwimmingSchool.LessonBookingTest" />
+      <option name="METHOD_NAME" value="checkDuplicateBookingTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UtilityTest.checkGradeLevelTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hatfield-junior-swimming-school" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hatfieldJuniorSwimmingSchool.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hatfieldJuniorSwimmingSchool" />
+      <option name="MAIN_CLASS_NAME" value="com.hatfieldJuniorSwimmingSchool.UtilityTest" />
+      <option name="METHOD_NAME" value="checkGradeLevelTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.LessonBookingTest.checkDuplicateBookingTest" />
+        <item itemvalue="JUnit.LessonBookingTest" />
+        <item itemvalue="JUnit.LearnerTest.isGenderTest" />
+        <item itemvalue="JUnit.LearnerMainTest" />
+        <item itemvalue="JUnit.UtilityTest.checkGradeLevelTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e1a6e309-513a-4242-be7b-e68d99cdb299" name="Changes" comment="" />
+      <created>1710616033047</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710616033047</updated>
+    </task>
+    <task id="LOCAL-00001" summary="lesson cancel functionality implemented">
+      <option name="closed" value="true" />
+      <created>1712695129962</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1712695129962</updated>
+    </task>
+    <task id="LOCAL-00002" summary="handle user input">
+      <option name="closed" value="true" />
+      <created>1713435532096</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1713435532096</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.csv" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="lesson cancel functionality implemented" />
+    <MESSAGE value="handle user input" />
+    <option name="LAST_COMMIT_MESSAGE" value="handle user input" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
